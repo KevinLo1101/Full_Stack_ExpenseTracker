@@ -35,3 +35,14 @@ To run this application locally, follow these steps:
 
    npm start
 
+Visit http://localhost:3000 in your web browser to access the Expense Tracker application.
+
+
+## Technologies Used
+
+React.js: A JavaScript library for building user interfaces.
+
+Axios: A promise-based HTTP client for making HTTP requests.
+
+CSS: Stylesheets for styling the application components.
+
