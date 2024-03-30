@@ -17,7 +17,21 @@ To run this application locally, follow these steps:
    ```bash
    git clone https://github.com/KevinLo1101/Full_Stack_ExpenseTracker.git
 
-2. Go to Backend
+2. Go to Backend and install dependencies
 
    ```bash
-   cd 
+   cd expense-tracker-backend
+
+   npm install
+
+   npm start
+   
+3. Go to Frontend and install dependencies
+
+   ```bash
+   cd expense-tracker-frontend.
+
+   npm install
+
+   npm start
+
