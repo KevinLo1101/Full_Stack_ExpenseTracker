@@ -15,4 +15,9 @@ To run this application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/KevinLo1101/Full_Stack_ExpenseTracker.git
+
+2. Go to Backend
+
+   ```bash
+   cd 
